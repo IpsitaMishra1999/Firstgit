@@ -1,3 +1,4 @@
 # Firstgit
 Demo of git
-author ipsita
+author ipsita mishra
+git st
